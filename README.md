@@ -20,6 +20,16 @@ Feature Importance Tracking: Automatic extraction and visualization of Random Fo
 
 Automated Reporting: Generate a comprehensive session report combining dataset shape, statistical highlights, and ML metrics, exportable as an HTML document.
 
+## Screenshots
+
+| Explore | Statistics |
+|---|---|
+| ![Explore tab](docs/screenshots/tab1.png) | ![Statistics tab](docs/screenshots/tab2.png) |
+
+| ML Models | Report |
+|---|---|
+| ![ML Models tab](docs/screenshots/tab3.png) | ![Report tab](docs/screenshots/tab4.png) |
+
 ## How to Run
 
 Ensure you have Python 3.9+ installed, then execute the following commands in your terminal:
